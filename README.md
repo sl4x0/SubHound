@@ -15,6 +15,7 @@
 
 <p align="center">
   <a href="#installation">Installation</a> |
+  <a href="#configuration">Configuration</a> |
   <a href="#usage">Usage</a> |
   <a href="#running-in-the-background">Running in the Background</a> |
   <a href="#references">References</a>
@@ -27,6 +28,22 @@ $ git clone https://github.com/exampleuser/subhound.git
 $ cd subhound
 $ pip install -r requirements.txt
 ```
+
+# Configuration
+
+```console
+[discord]
+webhook_url =https://discord.com/api/webhooks/12345678910/qwertyuiopasdfghjklzxcvbnm
+channel_name = #channel-name
+[telegram]
+bot_token =123456789:qwertyuiopasdfghjklzxcvbnm
+chat_id =123456789
+```
+
+- Open `config.ini` file with any Text-Editor and Replace your own Values
+- Remember to see the <a href="#references">References</a> Section for Configure you own Webhook and API keys.
+
+
 
 # Usage
 
