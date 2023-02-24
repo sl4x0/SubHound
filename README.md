@@ -1,5 +1,8 @@
 # <p align="center"> SubHound </p>
-
+<h1 align="center">
+  <img src="static/cover.png" alt="subfinder" width="200px">
+  <br>
+</h1>
  <p align="center"> Monitor and notify new subdomains found for a domain on Discord or/and Telegram. </p>
 
 <p align="center">
