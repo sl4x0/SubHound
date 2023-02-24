@@ -1,4 +1,3 @@
-# <p align="center"> SubHound </p>
 <h1 align="center">
   <img src="static/cover.png" alt="subhound" width="200px">
   <br>
