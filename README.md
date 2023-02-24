@@ -9,8 +9,6 @@
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-_red.svg"></a>
 <a href="https://github.com/sl4x0/SubHound/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
 <img src="https://img.shields.io/badge/Python-3.7-blue">
-<img src="https://travis-ci.com/sl4x0/SubHound.svg?branch=master">
-<img src="https://img.shields.io/librariesio/github/sl4x0/SubHound">
 </p>
 
 <p align="center">
