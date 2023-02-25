@@ -9,6 +9,7 @@
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-_red.svg"></a>
 <a href="https://github.com/sl4x0/SubHound/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
 <img src="https://img.shields.io/badge/Python-3.7-blue">
+
 </p>
 
 <p align="center">
@@ -99,3 +100,9 @@ This will reattach to the "subhound" session and allow you to view the output of
 
 # Credits
 - Inspired by: [GitHound](https://github.com/tillson/git-hound) and [Sublert](https://github.com/yassineaboukir/sublert)
+
+
+[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
+
+[buymeacoffee]: https://www.buymeacoffee.com/sl4x0
+[buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png
