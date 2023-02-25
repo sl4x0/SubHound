@@ -19,6 +19,11 @@
   <a href="#references">References</a>
 </p>
 
+<h1 align="center">
+
+<a href="https://asciinema.org/a/NhLC1MleV2sKQTdT8vIBzY2MJ" target="_blank"><img width="1000px" src="https://asciinema.org/a/NhLC1MleV2sKQTdT8vIBzY2MJ.svg" /></a>
+
+</h1>
 # Installation
 
 ```console
